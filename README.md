@@ -1,24 +1,19 @@
 # vueblog
 
-## Project setup
-```
+## 依赖安装
+
+```bash
 yarn install
 ```
 
-### Compiles and hot-reloads for development
-```
+### 本地运行
+
+```bash
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
+### 编译打包
+
+```bash
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
